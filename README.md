@@ -1,1 +1,1 @@
-# PlantsMonitoringandFaultDetection
+# PlantMonitoringandFaultDetection
